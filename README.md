@@ -4,7 +4,7 @@ A clean, minimalistic implementation of the **Llama 2 Large Language Model by Me
 
 ---
 
-## Model Architecture & Features 🧠
+## Model Architecture & Features 
 
 This implementation faithfully replicates the Llama 2 architecture with the following technical details, including links to the foundational research papers:
 
